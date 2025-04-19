@@ -1,0 +1,1 @@
+python3.10 ，conda环境下， pip install pyrealsense2==2.53.1.4623保证你能100%打开IntelD455
